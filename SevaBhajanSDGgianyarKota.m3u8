@@ -1,19 +1,28 @@
 #EXTM3U
 #EXTINF:-1,1. ādi pūjita gajānana
+#EXTVLCOPT:pitch-shift=0
 https://archive.org/download/listbhajan/ganesha-001.mp3
 #EXTINF:-1,2. guru brahmā guru viṣṇu guru devo maheśvara
+#EXTVLCOPT:pitch-shift=-1
 https://archive.org/download/listbhajan/guru-008.mp3
 #EXTINF:-1,3. vibhūti sundara sāī nāth
+#EXTVLCOPT:pitch-shift=0
 https://archive.org/download/listbhajan/shiva-104.mp3
 #EXTINF:-1,4. jagadīśvarī dayā karo mā
+#EXTVLCOPT:pitch-shift=0
 https://archive.org/download/listbhajan/devi-022.mp3
 #EXTINF:-1,5. jaya nārāyaṇa jaya hari oṃ
+#EXTVLCOPT:pitch-shift=1
 https://archive.org/download/listbhajan/ramaKrishna-203.mp3
 #EXTINF:-1,6. muralī kṛṣṇa mukunda kṛṣṇa mohana kṛṣṇa kṛṣṇa kṛṣṇa
+#EXTVLCOPT:pitch-shift=0
 https://archive.org/download/listbhajan/ramaKrishna-107.mp3
 #EXTINF:-1,7. he nanda nanda gopāla ānanda nanda gopāla
+#EXTVLCOPT:pitch-shift=0
 https://archive.org/download/listbhajan/ramaKrishna-057.mp3
 #EXTINF:-1,8. subrahmaṇyam subrahmaṇyam ṣaṇmukha nātha subrahmaṇyam
+#EXTVLCOPT:pitch-shift=0
 https://archive.org/download/listbhajan/sarvaDevata-010.mp3
 #EXTINF:-1,9. hare kṛṣṇa hare kṛṣṇa, kṛṣṇa kṛṣṇa hare hare. hare rāma hare rāma, rāma rāma hare hare
+#EXTVLCOPT:pitch-shift=3
 https://archive.org/download/listbhajan/ramaKrishna-193.mp3
