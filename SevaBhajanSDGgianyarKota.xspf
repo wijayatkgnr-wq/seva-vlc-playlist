@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org">
+  <trackList>
+    <track>
+      <title>1. ādi pūjita gajānana</title>
+      <location>https://archive.org/download/listbhajan/ganesha-001.mp3</location>
+    </track>
+    <track>
+      <title>2. guru brahmā guru viṣṇu guru devo maheśvara</title>
+      <location>https://archive.org/download/listbhajan/guru-008.mp3</location>
+    </track>
+    <track>
+      <title>3. vibhūti sundara sāī nāth</title>
+      <location>https://archive.org/download/listbhajan/shiva-104.mp3</location>
+    </track>
+    <track>
+      <title>4. satya svarūpiṇī mā sāī prema svarūpiṇī mā</title>
+      <location>https://archive.org/download/listbhajan/devi-068.mp3</location>
+    </track>
+    <track>
+      <title>5. jaya nārāyaṇa jaya hari oṃ</title>
+      <location>https://archive.org/download/listbhajan/ramaKrishna-203.mp3</location>
+    </track>
+    <track>
+      <title>6. guru bābā guru bābā</title>
+      <location>https://archive.org/download/listbhajan/guru-007.mp3</location>
+    </track>
+    <track>
+      <title>7. hare kṛṣṇa hare kṛṣṇa, kṛṣṇa kṛṣṇa hare hare</title>
+      <location>https://archive.org/download/listbhajan/ramaKrishna-192.mp3</location>
+    </track>
+    <track>
+      <title>8. subrahmaṇyam subrahmaṇyam ṣaṇmukha nātha subrahmaṇyam</title>
+      <location>https://archive.org/download/listbhajan/sarvaDevata-010.mp3</location>
+    </track>
+    <track>
+      <title>9. hare kṛṣṇa hare kṛṣṇa, kṛṣṇa kṛṣṇa hare hare. hare rāma hare rāma, rāma rāma hare hare</title>
+      <location>https://archive.org/download/listbhajan/ramaKrishna-193.mp3</location>
+    </track>
+  </trackList>
+</playlist>
