@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org">
+  <title>List Doa</title>
+  <trackList>
+    <track>
+      <location>https://archive.org/download/listdoa/Vibhuti_Mantram_Reference_Track.mp3</location>
+      <title>Vibhuti Mantram</title>
+      <creator>🎤 Sathya Sai students</creator>
+    </track>
+</playlist>
